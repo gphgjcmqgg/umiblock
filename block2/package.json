@@ -1,13 +1,13 @@
 {
-  "name": "@umi-block/hello",
+  "name": "@umi-block/block2",
   "version": "0.0.1",
-  "description": "hello",
+  "description": "block2 test",
   "main": "src/index.js",
   "authors": {
-    "name": "jinggao",
-    "email": "gphgjcmqgg@sina.com"
+    "name": "",
+    "email": "232214002@qq.com"
   },
-  "repository": "/hello",
+  "repository": "umijs/gphgjcmqgg/umiblock",
   "scripts": {
     "dev": "umi dev"
   },
